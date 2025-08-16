@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "eslint-config-prettier": "^10.1.8",
     "next": "15.4.6",
     "prettier": "^3.6.2",
